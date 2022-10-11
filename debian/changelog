@@ -1,0 +1,11 @@
+liblist-moreutils-xs-perl (0.430-2) unstable; urgency=medium
+
+  * Source-only no-change re-upload.
+
+ -- gregor herrmann <gregoa@debian.org>  Mon, 14 Dec 2020 17:25:02 +0100
+
+liblist-moreutils-xs-perl (0.430-1) unstable; urgency=medium
+
+  * Initial release (closes: #881670).
+
+ -- gregor herrmann <gregoa@debian.org>  Tue, 08 Dec 2020 00:10:24 +0100
